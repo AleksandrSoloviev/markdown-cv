@@ -1,45 +1,28 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Aleksandr Soloviev's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Aleksandr Soloviev
+Date of Birth: 23.11.1994
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:soloviev.aleksandr.v@gmail.com">soloviev.aleksandr.v@gmail.com</a>
+| <a href="https://t.me/SashaKipyatok">Telegram</a>
 </div>
 
 
-## Currently
+## Personal qualities
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Purposefulness, responsibility, punctuality, attention to detail.
+I have extensive experience in web application development.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012-2018`
+__Baltic State Technical University "VOENMEKH" them. D.F.Ustinova.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+Faculty of information and control systems.
 
 
 ## Awards
