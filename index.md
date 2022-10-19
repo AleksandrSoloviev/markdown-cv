@@ -15,7 +15,7 @@ Date of Birth: 23.11.1994
 
 Purposefulness, responsibility, punctuality, attention to detail.<br>
 But the most important quality in my opinion is the ability and desire to learn. It is not a problem for me to get on a project with technologies unfamiliar to me. I have excellent self-learning ability. I'm not afraid to ask questions if I can't solve them myself.<br>
-I have extensive experience in developing web applications, which helps me find non-trivial solutions to various problems!
+I have extensive experience in developing web applications, which helps me to find non-trivial solutions to various problems!
 
 
 ## Education
