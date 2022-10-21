@@ -33,7 +33,7 @@ __Strong knowledge:__
 
 HTML, CSS, Less, SCSS, JavaScript(ES6), React, Redux, Axios, GraphQL, ActiveCampaign, Formik, AntDesign, BootsTrap, Jest, Enzyme, Git.
 
-Familiar / worked (commercial development) with:
+__Familiar / worked (commercial development) with:__
 
 Angualr2+, TypeScript, WebSocket, NodeJS, ExpressJS(Front/Back), NestJs, Sequelize, PostgreSQL, Docker, PugJS, HandlebarsJS, Electron.
 
