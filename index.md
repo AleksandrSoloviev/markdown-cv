@@ -29,7 +29,7 @@ Faculty of information and control systems.
 
 ## Skills
 
-Strong knowledge:
+__Strong knowledge:__
 
 HTML, CSS, Less, SCSS, JavaScript(ES6), React, Redux, Axios, GraphQL, ActiveCampaign, Formik, AntDesign, BootsTrap, Jest, Enzyme, Git.
 
@@ -43,7 +43,7 @@ Angualr2+, TypeScript, WebSocket, NodeJS, ExpressJS(Front/Back), NestJs, Sequeli
 
 `2020 - present`
 
-Company: UmbrellaIT.
+__Company: UmbrellaIT.__
 
 Position: Web developer / Senior React developer.
 
@@ -63,7 +63,7 @@ Responsibilities:
 
 `2019 - 2020`
 
-Company: EPAM-Systems Inc.
+__Company: EPAM-Systems Inc.__
 
 Position: Junior Frontend developer.
 
