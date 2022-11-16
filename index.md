@@ -45,7 +45,7 @@ Angualr2+, TypeScript, WebSocket, NodeJS, ExpressJS(Front/Back), NestJs, Sequeli
 
 Company: UmbrellaIT.
 
-Position: Web developer / Senior React developer.
+Position: Web developer.
 
 Being part of an outsourcing company, I was lucky to work on many projects from different countries. I have worked on applications from banking, philanthropy, retail, international shipping, a transfer application and many others.
 Now I work as an outstaff developer in one of the largest American companies providing advertising on the Internet.
