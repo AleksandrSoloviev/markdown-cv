@@ -31,11 +31,11 @@ Faculty of information and control systems.
 
 __Strong knowledge:__
 
-HTML, CSS, Less, SCSS, JavaScript(ES6), React, NextJS, Redux, ReduxSaga, Axios, GraphQL, ActiveCampaign, Formik, AntDesign, BootsTrap, MaterialUI, Jest, Enzyme, Git.
+HTML, CSS, Less, SCSS, JavaScript(ES6), TypeScript, React, NextJS, Redux, ReduxSaga, Axios, GraphQL, ActiveCampaign, Formik, AntDesign, BootsTrap, MaterialUI, Jest, Enzyme, Git.
 
 __Familiar / worked (commercial development) with:__
 
-Angualr2+, TypeScript, WebSocket, NodeJS, ExpressJS(Front/Back), NestJs, Sequelize, PostgreSQL, Docker, PugJS, HandlebarsJS, Electron.
+Angualr2+,  WebSocket, NodeJS, ExpressJS(Front/Back), NestJs, Sequelize, PostgreSQL, Docker, PugJS, HandlebarsJS, Electron.
 
 
 
