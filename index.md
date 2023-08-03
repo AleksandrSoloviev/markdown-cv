@@ -31,7 +31,7 @@ Faculty of information and control systems.
 
 Strong knowledge:
 
-HTML, CSS, Less, SCSS, JavaScript(ES6), TypeScript, React, NextJS, Redux, Axios, GraphQL, ActiveCampaign, Formik, AntDesign, BootsTrap, Jest, Enzyme, Git.
+HTML, CSS, Less, SCSS, TypeScript, JavaScript(ES6), React, NextJS, Redux, Axios, GraphQL, ActiveCampaign, Formik, AntDesign, BootsTrap, Jest, Enzyme, Git.
 
 Familiar / worked (commercial development) with:
 
