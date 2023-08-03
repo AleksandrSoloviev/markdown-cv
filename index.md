@@ -35,7 +35,7 @@ HTML, CSS, Less, SCSS, TypeScript, JavaScript(ES6), React, NextJS, Redux, Axios,
 
 Familiar / worked (commercial development) with:
 
-Angualr2+, WebSocket, NodeJS, ExpressJS(Front/Back), NestJs, Sequelize, PostgreSQL, Docker, PugJS, HandlebarsJS, Electron.
+Angualr2+, WebSocket, NodeJS, ExpressJS(Front/Back), NestJs, Sequelize, PostgreSQL, Docker, PugJS, HandlebarsJS.
 
 
 
