@@ -7,8 +7,8 @@ Date of Birth: 23.11.1994
 
 <div id="webaddress">
   <a href="mailto:soloviev.aleksandr.v@gmail.com">soloviev.aleksandr.v@gmail.com</a>
-| <a href="https://t.me/SashaKipyatok">Telegram: @SashaKipyatok</a>
-  <a href="www.linkedin.com/in/sasha-kipyatok">Linkedin</a>
+  | <a href="https://t.me/SashaKipyatok">Telegram: @SashaKipyatok</a>
+  | <a href="www.linkedin.com/in/sasha-kipyatok">Linkedin</a>
 </div>
 
 
