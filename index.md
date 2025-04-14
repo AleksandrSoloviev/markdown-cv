@@ -31,11 +31,11 @@ Faculty of information and control systems.
 
 Strong knowledge:
 
-HTML, CSS, Less, SCSS, TypeScript, JavaScript(ES6), React, NextJS, Redux, Axios, GraphQL, ActiveCampaign, Formik, AntDesign, BootsTrap, Jest, Enzyme, Git.
+HTML, CSS, Less, SCSS, StyledComponents, TypeScript, JavaScript(ES6), React, Redux, Axios, GraphQL, ActiveCampaign, Formik, ReactHookForm, AntDesign, BootsTrap, Jest, Enzyme, Yup, Zod, Git, Microfrontend architecture.
 
 Familiar / worked (commercial development) with:
 
-Angualr2+, WebSocket, NodeJS, ExpressJS(Front/Back), NestJs, Sequelize, PostgreSQL, Docker, PugJS, HandlebarsJS.
+Angualr2+, NextJS, WebSocket, NodeJS, ExpressJS(Front/Back), NestJS, Sequelize, PostgreSQL, Docker, PugJS, HandlebarsJS.
 
 
 
@@ -45,10 +45,10 @@ Angualr2+, WebSocket, NodeJS, ExpressJS(Front/Back), NestJs, Sequelize, PostgreS
 
 Company: UmbrellaIT.
 
-Position: Web developer. 
+Position: Senior React developer. 
 
 Being part of an outsourcing company, I was lucky to work on many projects from different countries. I have worked on applications from banking, philanthropy, retail, international shipping, a transfer application and many others.
-Now I work as an outstaff developer in one of the largest American companies providing advertising on the Internet.
+Now I work as an outstaff developer at a large fintech company.
 
 Responsibilities:
 * Development of web applications.
