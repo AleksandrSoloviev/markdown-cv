@@ -6,9 +6,8 @@ title: Aleksandr Soloviev's CV
 Date of Birth: 23.11.1994
 
 <div id="webaddress">
-  <a href="mailto:soloviev.aleksandr.v@gmail.com">soloviev.aleksandr.v@gmail.com</a>
-  | <a href="https://t.me/SashaKipyatok">Telegram: @SashaKipyatok</a>
-  | <a href="https://www.linkedin.com/in/sasha-kipyatok">Linkedin</a>
+<a href="mailto:soloviev.aleksandr.v@gmail.com">soloviev.aleksandr.v@gmail.com</a>
+| <a href="https://t.me/SashaKipyatok">Telegram</a>
 </div>
 
 
@@ -16,7 +15,7 @@ Date of Birth: 23.11.1994
 
 Purposefulness, responsibility, punctuality, attention to detail.<br>
 But the most important quality in my opinion is the ability and desire to learn. It is not a problem for me to get on a project with technologies unfamiliar to me. I have excellent self-learning ability. I'm not afraid to ask questions if I can't solve them myself.<br>
-I have extensive experience in developing web applications, which helps me to find non-trivial solutions to various problems!
+I have extensive experience in developing web applications, which helps me find non-trivial solutions to various problems!
 
 
 ## Education
@@ -30,13 +29,13 @@ Faculty of information and control systems.
 
 ## Skills
 
-__Strong knowledge:__
+Strong knowledge:
 
-HTML, CSS, Less, SCSS, JavaScript(ES6), TypeScript, React, NextJS, Redux, ReduxSaga, Axios, GraphQL, ActiveCampaign, Formik, AntDesign, BootsTrap, MaterialUI, Jest, Enzyme, Git.
+HTML, CSS, Less, SCSS, StyledComponents, TypeScript, JavaScript(ES6), React, Redux, Axios, GraphQL, ActiveCampaign, Formik, ReactHookForm, AntDesign, BootsTrap, Jest, Enzyme, Yup, Zod, Git, Microfrontend architecture.
 
-__Familiar / worked (commercial development) with:__
+Familiar / worked (commercial development) with:
 
-Angualr2+,  WebSocket, NodeJS, ExpressJS(Front/Back), NestJs, Sequelize, PostgreSQL, Docker, PugJS, HandlebarsJS, Electron.
+Angualr2+, NextJS, WebSocket, NodeJS, ExpressJS(Front/Back), NestJS, Sequelize, PostgreSQL, Docker, PugJS, HandlebarsJS.
 
 
 
@@ -44,12 +43,12 @@ Angualr2+,  WebSocket, NodeJS, ExpressJS(Front/Back), NestJs, Sequelize, Postgre
 
 `2020 - present`
 
-__Company: UmbrellaIT.__
+Company: UmbrellaIT.
 
-Position: Web developer.
+Position: Senior React developer. 
 
 Being part of an outsourcing company, I was lucky to work on many projects from different countries. I have worked on applications from banking, philanthropy, retail, international shipping, a transfer application and many others.
-Now I work as an outstaff developer in one of the largest American companies providing advertising on the Internet.
+Now I work as an outstaff developer at a large fintech company.
 
 Responsibilities:
 * Development of web applications.
@@ -64,7 +63,7 @@ Responsibilities:
 
 `2019 - 2020`
 
-__Company: EPAM-Systems Inc.__
+Company: EPAM-Systems Inc.
 
 Position: Junior Frontend developer.
 
@@ -72,13 +71,11 @@ Responsibilities:
 * Development of web applications.
 * Creating pages based on design layouts, ensuring cross-browser and cross-platform compatibility.
 * Implementing application logic based on business requirements.
-* Application maintenance and code refactoring.
-* Participation in Agile methodology artifacts.
+* Application maintenance and code refactoring
+* Participation in Agile methodology artifacts
 
 
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
