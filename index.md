@@ -71,8 +71,8 @@ Responsibilities:
 * Development of web applications.
 * Creating pages based on design layouts, ensuring cross-browser and cross-platform compatibility.
 * Implementing application logic based on business requirements.
-* Application maintenance and code refactoring.
-* Participation in Agile methodology artifacts.
+* Application maintenance and code refactoring
+* Participation in Agile methodology artifacts
 
 
 
